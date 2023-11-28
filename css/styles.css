@@ -114,3 +114,35 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* end of section 2 classes */
+
+/* start of section 3 classes */
+
+.section-three-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+/* end of section 3 classes */
+
+/* start of section 4 classes */
+
+.section-four {
+  background-color: #f4f4fd;
+}
+
+.section-four-header {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.section-four-list {
+  background-color: #ffffff;
+}
