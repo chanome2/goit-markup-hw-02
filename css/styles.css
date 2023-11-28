@@ -63,10 +63,28 @@ body {
   background-color: #2e2f42;
 }
 
-.hidden-title {
+.header-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+}
+
+.btn {
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+}
+
+.btn:hover {
+  color: #404bbf;
+}
+
+.btn:focus {
+  color: #404bbf;
 }
