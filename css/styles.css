@@ -25,3 +25,22 @@ body {
 .list {
   list-style: none;
 }
+
+.link-style {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.link-style:hover {
+  color: #404bbf;
+}
+
+.link-style:focus {
+  color: #404bbf;
+}
+
+.address-list {
+  font-style: normal;
+}
