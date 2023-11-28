@@ -1,5 +1,6 @@
 :root {
-  background: #2e2f42;
+  --main-bg-color: #ffffff;
+  --text-color: #404bbf;
 }
 
 /* start of header classes */
