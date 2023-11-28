@@ -17,3 +17,11 @@ body {
 .link {
   text-decoration: none;
 }
+
+.studio-logo {
+  color: #2e2f42;
+}
+
+.list {
+  list-style: none;
+}
