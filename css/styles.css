@@ -44,3 +44,17 @@ body {
 .address-list {
   font-style: normal;
 }
+
+.contact-color {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.contact-color:hover {
+  color: #404bbf;
+}
+
+.contact-color:focus {
+  color: #404bbf;
+}
