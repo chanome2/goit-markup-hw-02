@@ -146,3 +146,22 @@ body {
 .section-four-list {
   background-color: #ffffff;
 }
+/* end of section 4 classes */
+
+/* start of footer */
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.studio-footer-logo {
+  color: #f4f4fd;
+}
+
+.footer-paragraph {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+/* end of footer classes */
